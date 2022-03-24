@@ -14,7 +14,7 @@
 
   "files.autoSave": "afterDelay",
   "html.autoClosingTags": true,
-  "workbench.colorTheme": "DuoTone Dark Sea",
+  "workbench.colorTheme": "Winter Is Coming (Dark Blue)",
   "liveServer.settings.donotShowInfoMsg": true,
   "liveSassCompile.settings.excludeList": ["**/node_modules/**", ".vscode/**"],
   "vsicons.dontShowNewVersionMessage": true,
@@ -58,7 +58,7 @@
   "editor.formatOnSave": true,
   "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
   "editor.fontLigatures": null,
-  "workbench.preferredDarkColorTheme": "DuoTone Dark Sea"
+  "workbench.preferredDarkColorTheme": "Winter Is Comming (Dark Blue)"
 
   // "[json]": {
 
