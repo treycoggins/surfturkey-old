@@ -1,0 +1,66 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.tabCompletion": "on",
+
+  "editor.fontSize": 16,
+  "editor.wordWrap": "on",
+  "editor.tabSize": 3,
+  "editor.renameOnType": true,
+  "prettier.singleQuote": true,
+
+  "php.validate.executablePath": "C:/xampp/php/php.exe",
+
+  "files.autoSave": "afterDelay",
+  "html.autoClosingTags": true,
+  "workbench.colorTheme": "Winter Is Coming (Dark Blue)",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveSassCompile.settings.excludeList": ["**/node_modules/**", ".vscode/**"],
+  "vsicons.dontShowNewVersionMessage": true,
+  "explorer.confirmDelete": false,
+  "cSpell.userWords": ["Bodhi", "Coggins", "flexbox", "glyphicon", "headshot"],
+
+  "explorer.sortOrder": "type",
+  "window.openFoldersInNewWindow": "on",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "gitlens.views.repositories.branches.layout": "list",
+  "editor.tokenColorCustomizations": {
+    "comments": "#db34afda"
+  },
+  "code-runner.runInTerminal": true,
+  "auto-close-tag.excludedTags": [
+    "area",
+    "base",
+    "br",
+    "col",
+    "command",
+    "embed",
+    "hr",
+    "img",
+    "input",
+    "keygen",
+    "link",
+    "meta",
+    "param",
+    "source",
+    "track",
+    "wbr"
+  ],
+
+  "kite.showWelcomeNotificationOnStartup": false,
+  "editor.codeActionsOnSave": null,
+
+  "jshint.options": {
+    "esversion": 6
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+  "editor.fontLigatures": null,
+  "workbench.preferredDarkColorTheme": "Winter Is Comming (Dark Blue)"
+
+  // "[json]": {
+
+  //
+}
